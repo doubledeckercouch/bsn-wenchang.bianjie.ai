@@ -6,15 +6,15 @@
     noticeContent: {
         title: 通知公告,
         noticeList: [
-                 {
+         {
                 title: 【文昌链极速网正式上线】,
                 date: "2023-07-31",
                 info: 基于 IRITA Turbo 侧链技术的文昌链极速网 7 月上线，文昌链在实现「永不卡链」和「显著降低用链成本」的目标上再次取得重大进展,
                 maskContent: {
                     title: 【文昌链极速网正式上线】,
                     content: <p style="text-indent:2em">边界智能于2023年7月正式正式发布基于 IRITA Turbo 的文昌链极速网，标志着文昌链在实现「永不卡链」和「显著降低用链成本」的目标上再次取得新的重大进展！区块链应用开发者可以通过多链/跨链分布式应用服务平台 AVATA 接入文昌链极速网，使用过程中除了将获得更快的上链体验，用链成本更可大幅降低 20%-90%。</p>
-                    &emsp;&emsp;<p style="text-indent:2em;">文昌链极速网浏览器链接：<a target="_blank" rel="noopener noreferrer" href="https://wenchang.turboscan.bianjie.ai">https://wenchang.turboscan.bianjie.ai</a></p>
-                    &emsp;&emsp;<p style="text-indent:2em;">测试网链接：<a target="_blank" rel="noopener noreferrer" href="https://testnet.turboscan.bianjie.ai">https://testnet.turboscan.bianjie.ai</a></p>
+                    <p style="text-indent:2em;">文昌链极速网浏览器链接：<a target="_blank" rel="noopener noreferrer" href="https://wenchang.turboscan.bianjie.ai">https://wenchang.turboscan.bianjie.ai</a></p>
+                    <p style="text-indent:2em;">测试网链接：<a target="_blank" rel="noopener noreferrer" href="https://testnet.turboscan.bianjie.ai">https://testnet.turboscan.bianjie.ai</a></p>
                     &emsp;&emsp;<font color=black style="font-weight:600;">文昌链极速网接入方式：</font><br>
                     &emsp;&emsp;用户在 AVATA 服务平台创建新项目时，底层区块链可选择「文昌链极速网」选项。<br>
                     &emsp;&emsp;文昌链极速网由 AVATA V3 API 提供支持，与之前的 API 版本兼容，接入方式也一致。<br>
@@ -52,7 +52,7 @@
                 info: 多条基于IRITA打造的区块链组成的开放许可链互联网络生态形成了文昌链网，其官方门户——文昌链网浏览器也焕新上线。,
                 maskContent: {
                     title: 【更友好、更高效，文昌链网浏览器焕新上线】,
-                    &emsp;&emsp;自 2021 年正式上线、2022 年开启多链运营模式以来，文昌链生态坚持开放合规发展的原则，专注于支持打造高效合作及公平有序的 Web3 应用生态。随着文昌链多链生态的蓬勃发展，单日交易量屡创新高，边界智能不断推进文昌链多链生态的优化更新，持续高效地支持广大开放许可链用户日益增长的用链需求，进一步提升文昌链整体服务能力。<br>
+                    content: <p style="text-indent:2em">自 2021 年正式上线、2022 年开启多链运营模式以来，文昌链生态坚持开放合规发展的原则，专注于支持打造高效合作及公平有序的 Web3 应用生态。随着文昌链多链生态的蓬勃发展，单日交易量屡创新高，边界智能不断推进文昌链多链生态的优化更新，持续高效地支持广大开放许可链用户日益增长的用链需求，进一步提升文昌链整体服务能力。</p>
                     &emsp;&emsp;通过垂直优化链性能、水平促进多链互联互通等工作，多条基于 IRITA 打造的区块链组成的开放许可链互联网络生态形成了文昌链网，其官方门户——文昌链网浏览器也于近日正式更新上线。区块链浏览器是区块链这一信任机器的链上数据可视化窗口，是每一个链用户访问区块链可信账本时必不可少的工具。文昌链网浏览器提供了及时、便捷的链上信息入口，可以帮助用户快速、准确地获取所需要的信息，包括区块链网络的运行情况、DID、智能合约等服务及相应链账户地址的数字资产、交易区块等信息；并提供多链查询入口，可以帮助用户指定链查询具体的地址、交易哈希和区块高度。<br>
                      &emsp;&emsp;6 月 28 日，文昌链网浏览器完成最新一次重要迭代。优化后的文昌链网浏览器除了支持文昌链的多个平行链（天和、天舟及神舟）的浏览器入口，还链通了基于 IRITA 打造的大唐链、酒链、天一链等多条生态链浏览器，商业化应用场景更加丰富，呈现了繁荣多元的文昌链多链生态。新版文昌链网浏览器支持图表视图和数据视图两种数据展现模式。其中，新增的图表视图通过对数据的可视化展现，清晰地显示了各个平行链最近一个月内的交易趋势和每日交易数据，能够让用户在浏览时轻松获取最真实、最详尽的数据，为用户提供了直观的数据解读工具和功能，帮助用户更好地理解和利用数据，极大地提升了用户体验。同时围绕图表还提供了数据详情的钻取入口，允许用户围绕相应的平行链进行进一步围绕资产及交易详情信息的获取。<br>
                     &emsp;&emsp;开发者可通过「Avata」，更加自由且开放地与底层区块链系统进行交互，一键式对接，将更多精力用于关注自身业务需求的实现，而无需过多关注区块链底层系统的运行逻辑与交互规则。
@@ -96,7 +96,7 @@
                     &emsp;&emsp;同时，「AVATA」成功发布并上线对接文昌链，通过 API 服务封装复杂的区块链底层交互逻辑，为应用开发者开放了首批支持 NFT/元宇宙应用场景的核心服务接口。<br>
                     &emsp;&emsp;Avata 定位于为企业及开发者持续提供安全、简单、高效、鲁棒的区块链 API 服务，将始终坚持自主可控、高效易用的产品理念，不断迭代推出多链和跨链支持能力，助力生态伙伴在分布式商业应用领域持续创造价值。<br>
                     &emsp;&emsp;开发者可通过「AVATA」，更加自由且开放地与底层区块链系统进行交互，一键式对接，将更多精力用于关注自身业务需求的实现，而无需过多关注区块链底层系统的运行逻辑与交互规则。
-                    &emsp;&emsp;<p style="text-indent:2em;">「Avata」开发者文档：<a target="_blank" rel="noopener noreferrer" href="http://apis.avata.bianjie.ai">http://apis.avata.bianjie.ai</a></p>
+                    &emsp;&emsp;<p style="text-indent:2em;">「Avata」开发者文档：<a target="_blank" rel="noopener noreferrer" href="https://docs.avata.bianjie.ai">https://docs.avata.bianjie.ai</a></p>
                 }
             },
             {
